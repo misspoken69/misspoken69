@@ -8,7 +8,8 @@ Here is some info about me..
 - I like to skate a lot
 - I spend most of my free time coding
 - I usually do Discord bots and HTML websites for coding
-- I only know two coding languages, HTML/CSS and Javascript
+- I only know three coding languages, HTML/CSS, Javascript, and Python! (The Mains)
+- I am currently still learning Python, and if you need any help, DM me on Discord!
 
 ## You can contact me easily on Discord. Misspoken#9504
 
