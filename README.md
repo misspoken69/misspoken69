@@ -12,3 +12,6 @@ Here is some info about me..
 
 ## You can contact me easily on Discord. Misspoken འҽʂ#6666
 
+![Misspoken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryasarukkai&count_private=true&show_icons=true&theme=nightowl)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryasarukkai&theme=nightowl)
