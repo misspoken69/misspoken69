@@ -10,7 +10,7 @@ Here is some info about me..
 - I usually do Discord bots and HTML websites for coding
 - I only know two coding languages, HTML/CSS and Javascript
 
-## You can contact me easily on Discord. Misspoken འҽʂ#6666
+## You can contact me easily on Discord. Misspoken#9504
 
 ![Misspoken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misspoken69&count_private=true&show_icons=true&theme=nightowl)
 
