@@ -11,7 +11,7 @@ Here is some info about me..
 - I only know three coding languages, HTML/CSS, Javascript, and Python! (The Mains)
 - I am currently still learning Python, and if you need any help, DM me on Discord!
 
-## You can contact me easily on Discord. Misspoken#9504
+## You can contact me easily on Discord. Misspoken#1122
 
 ![Misspoken's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misspoken69&count_private=true&show_icons=true&theme=nightowl)
 
